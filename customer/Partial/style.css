@@ -1,0 +1,58 @@
+
+/* Manage Menu as well as Items.php Start*/
+.card {
+    margin-top: 60px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.i {
+    font-size: 1.3rem;
+}
+img{
+    width:50px;
+}
+.btn-primary {
+    background-color: #138866;
+    border-color: #138866;
+}
+
+.badge {
+    font-size: 11px;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    line-height: 10px;
+    border-radius: 50px;
+    letter-spacing: .50px;
+    padding: 4px 12px;
+    background-color: #3da96f;
+}
+
+.fa-edit,
+.fa-trash {
+    font-size: 15px;
+    display: inline-block;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 5px;
+    background-color: #07b759;
+    padding: 7px 7px;
+    color: white;
+    border-radius: 5px;
+    justify-content: center;
+}
+.fa-edit:hover{
+    background-color: #138866;
+}
+/* End */
+
+/* Loading */
+/* .loading{
+    background:url("../../Images/loading.gif");
+} */
+/* End Loading */
+
+/* Start For Modal */
+.modal-title{
+    font-weight:500;
+    padding:10px;
+}

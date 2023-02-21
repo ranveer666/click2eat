@@ -1,0 +1,36 @@
+.card-title {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #28a745;
+    word-break: break-all;
+    word-spacing: rem;
+    word-spacing: 0.5rem;
+}
+
+.float-right {
+    font-size: 1.3rem;
+    color: deeppink;
+}
+
+.float-right:hover {
+    color: #ffc107;
+}
+
+.card {
+    border-bottom-right-radius: 3rem;
+}
+
+.btn {
+    background-color: #dc3545;
+    color: white;
+    border-radius: 100px;
+    margin: 5px;
+    padding: 10px 25px;
+    transition: 0.3s ease;
+}
+
+.btn:hover {
+    background-color: white;
+    border: 1px solid #dc3545;
+    color: green;
+}
